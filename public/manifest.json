@@ -1,6 +1,6 @@
 {
-  "name": "Jasper J Stevens",
-  "short_name": "Jasper J Stevens",
+  "name": "Nick J Stevens",
+  "short_name": "Nick J Stevens",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -28,7 +28,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#F898B9",
-  "background_color": "#ffffff",
+  "theme_color": "#FFFFFF",
+  "background_color": "#3057e1",
   "display": "standalone"
 }

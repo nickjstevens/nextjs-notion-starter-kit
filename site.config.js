@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'd4366fca7ef94f748621a1348ce0e4bc',
+  rootNotionPageId: '20a3959345ce448e8644db1a91f6c47e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jasper J Stevens',
-  domain: 'jasperjstevens.com',
-  author: 'Jasper Stevens',
+  name: 'Nick J Stevens',
+  domain: 'https://www.nickjstevens.com',
+  author: 'Nick J Stevens',
 
   // open graph metadata (optional)
-  description: 'My Website',
-  socialImageTitle: 'Welcome',
+  description: 'Devon, 3 Kids, Chartered Engineer',
+  socialImageTitle: 'Nick J Stevens',
   socialImageSubtitle: 'Hi! 👋',
 
   // social usernames (optional)
-  // twitter: '',
-  // github: '',
-  // linkedin: '',
+  twitter: 'nick_j_stevens',
+  github: 'nickjstevens',
+  linkedin: 'nick-stevens-04b9234',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
